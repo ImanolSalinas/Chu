@@ -1192,3 +1192,9 @@ a {
 #fotoChu{
   margin-bottom: 20px;
 }
+
+.image-info p{
+  color: white;
+  letter-spacing: 2px ;
+  white-space: nowrap;
+}
