@@ -1203,3 +1203,10 @@ a {
 #servicios ul {
   list-style: none;
 }
+
+#servicios p{
+  text-align: justify;
+}
+#servicios h6{
+  text-align: justify;
+}
