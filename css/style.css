@@ -15,22 +15,22 @@ body {
   color: #fff; }
 
   #logowsp{
-    color: #34B7F1;
+    color: gray;
     font-size: 20px;
   }
 
   #logoinsta{
-    color: #34B7F1;
+    color: gray;
     font-size: 20px;
   }
 
   #logodireccion{
-    color: #34B7F1;
+    color: gray;
     font-size: 20px;
   }
 
   #logoemail{
-    color: #34B7F1;
+    color:gray;
     font-size: 20px;
   }
 
@@ -1198,4 +1198,8 @@ a {
   letter-spacing: 2px ;
   white-space: nowrap;
   
+}
+
+#servicios ul {
+  list-style: none;
 }
